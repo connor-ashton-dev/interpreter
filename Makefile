@@ -1,6 +1,6 @@
 # Makefile for crafting_interpreters
 
-BINARY=crafting_interpreters
+BINARY=interpreter
 
 .PHONY: all build run test lint clean
 
